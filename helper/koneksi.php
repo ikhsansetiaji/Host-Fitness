@@ -1,9 +1,9 @@
 <?php
 // Koneksi ke database
 $host = 'localhost';
-$dbname = 'fitness_db';
-$username = 'root';
-$password = '';
+$dbname = 'qxaszxed_fitness	';
+$username = 'qxaszxed_admin';
+$password = 'ichfitness.site';
 
 $conn = new mysqli($host, $username, $password, $dbname);
 
