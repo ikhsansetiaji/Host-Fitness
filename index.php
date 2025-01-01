@@ -12,7 +12,7 @@ include "helper/koneksi.php";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lembah Fitness</title>
+    <title>ICH Fitness</title>
     <!-- CSS Frameworks and Libraries -->
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
