@@ -1,7 +1,7 @@
 <?php
 // Koneksi ke database
 $host = 'localhost';
-$dbname = 'qxaszxed_fitness	';
+$dbname = 'qxaszxed_fitness';
 $username = 'qxaszxed_admin';
 $password = 'ichfitness.site';
 
